@@ -1,2 +1,2 @@
 # OA-System-ClientSide
-fSpringBoot+Sequity+JWT+VUE前端后端分离
+VUE +ElementUI 前端后端分离
